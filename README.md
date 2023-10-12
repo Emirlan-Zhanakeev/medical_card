@@ -2,7 +2,7 @@
 Diploma project
 # Doctor Appointment Management System
 ## Table of Contents:
-Introduction
+Introduction/n
 Features
 Prerequisites
 Configuration
