@@ -1,7 +1,7 @@
 # medical_card
 Diploma project
-## Doctor Appointment Management System
-# Table of Contents:
+# Doctor Appointment Management System
+## Table of Contents:
 Introduction
 Features
 Prerequisites
