@@ -2,12 +2,12 @@
 Diploma project
 # Doctor Appointment Management System
 ## Table of Contents:
-Introduction\n
-Features
-Prerequisites
-Configuration
-Usage
-Database Schema
+Introduction__
+Features__
+Prerequisites__
+Configuration__
+Usage__
+Database Schema__
 
 # Introduction
 The Doctor Appointment Management System is a web-based application designed to streamline the process of scheduling and managing doctor-patient appointments. It is developed using Java, Spring MVC, and utilizes PostgreSQL as its database. This documentation provides an overview of the system, its features, and guidance, configuration, and usage.
